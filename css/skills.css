@@ -33,9 +33,60 @@ img {
     height: 50px;
 }
 
+section {
+    background-color: whitesmoke;
+    width: 800px;
+    margin-top: 40px;  
+    border-radius: 15px; 
+}
+
+#react {
+    margin-bottom: 40px;
+}
 
 footer {
     height: 100px;
     background-color: whitesmoke;
     margin-bottom: 0;
+}
+
+/* Mobile styles */
+@media screen and (max-width: 500px) {
+    section {
+        width: 300px;
+    }
+}
+
+@media screen and (min-width: 501px) and (max-width: 960px) {
+    
+    section {
+        width: 400px;
+    }
+
+    footer {
+        margin-top: 250px;
+    }
+}
+
+/* Desktop styles */
+@media screen and (min-width: 961px) {
+    
+#css,
+#ruby,
+#js{
+    margin-right: 10px;
+}
+
+#html,
+#rails,
+#react {
+    margin-left: 10px;
+}
+
+    
+    footer {
+        margin-top: 230px;
+    }
+
+
 }
