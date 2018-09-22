@@ -3,6 +3,7 @@
     margin: 0 auto;
 }
 
+
 body {
     background-image: url(/img/Deep\ Space\ \(1\).jpg);
     background-size: cover;
@@ -40,6 +41,16 @@ img {
     height: 50px;
 }
 
+a {
+    text-decoration: none;
+    color: black;}
+
+a:hover {
+
+    font-size: 35px;
+         color:black;
+        text-decoration: none;}
+
 .nav {
     display: flex;
     flex-direction: row;
@@ -50,10 +61,20 @@ img {
 
 .introduction {
     background-color: whitesmoke;
+    display: flex;
+    flex-direction: column;
     width: 600px;
     border-radius: 15px;
     margin-bottom: 80px;
-
+    height: 100vh;
+    padding: 10px;
+    text-align: center;
+    font-size: 2rem;
+    font-family: 'Markazi Text', serif;
+    
+}
+h1 {
+    font-family: 'Permanent Marker', cursive;
 }
 
 footer {
@@ -66,6 +87,7 @@ footer {
 @media screen and (max-width: 500px) {
     .introduction {
         width: 300px;
+        font-size: 1.5rem;
     }
 }
 
@@ -74,6 +96,10 @@ footer {
         background-size: cover;
         background-repeat: no-repeat;
         background-color: black;
+    }
+
+    .introduction {
+        font-size: 3rem;
     }
 
     footer {

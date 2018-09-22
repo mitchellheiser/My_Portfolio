@@ -29,10 +29,6 @@ nav {
 
 }
 
-/* header {
-    background-color: whitesmoke;
-    margin-top: 20px;
-} */
 
 img {
     height: 50px;
@@ -53,6 +49,36 @@ main {
     flex-wrap: wrap;
 }
 
+a {
+    text-decoration: none;
+    color: black;}
+
+a:hover {
+
+    font-size: 35px;
+         color:black;
+        text-decoration: none;}
+
+#git,
+#linkedin,
+#facebook {
+    font-size: 8rem;
+
+}
+
+#twitter {
+    font-size: 10rem;
+}
+
+#git-a:hover{
+    font-size: 9rem;
+}
+#linkedin-a:hover{
+    font-size: 9rem;
+}
+#facebook-a:hover{
+    font-size: 9rem;
+}
 footer {
     height: 100px;
     background-color: whitesmoke;
@@ -88,12 +114,6 @@ footer {
         margin-top: 100px;
         width: 200px;
         height: 200px;
-        
-
-    }
-    #git,
-    #facebook {
-        
     }
 
     main {
