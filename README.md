@@ -61,7 +61,7 @@ The various software, coding laguages and hosting services that i used to build 
 <li>Easy navigation</li>
 <li>Easy to read fonts</li>
 <li>Not too over done colour wise that it distracts from the content</li>
-<li>Provides all the necessary information for employers/clients without going to over the top<li>
+<li>Provides all the necessary information for employers/clients without going to over the top</li>
 </ul>
 
 
