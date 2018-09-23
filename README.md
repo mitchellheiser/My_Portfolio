@@ -51,6 +51,16 @@ trello
 
 <h1>Details of Planning proccess</h1>
 
+<h3>Trello</h3>
+<a href="https://trello.com/b/3JhM2Z3o/portfolio" target="_blank">TrelloBoard</a>
+<img src="docs/trello1.png" width=300px>
+<img src="docs/trello2.png" width=300px>
+<img src="docs/trello3.png" width=300px>
+<img src="docs/trello4.png" width=300px>
+<img src="docs/trello5.png" width=300px>
+<img src="docs/trello6.png" width=300px>
+
+
 
 <h1>Short Answer Q&A - Include short answers to the following questions</h1>
 <h1>Describe key events in the development of the internet from the 1980s to today</h1>
