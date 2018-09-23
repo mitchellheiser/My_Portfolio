@@ -1,4 +1,7 @@
 # My_Portfolio
+
+https://mitchellheiser.github.io/src/
+https://github.com/mitchellheiser/mitchellheiser.github.io
 <h1>purpose</h1>
 The purpose of this website is to show case my abilites to future employers. It demonstates my ability to use html and css effectivly to make an inutuitve and responsive website, the information provided on the website itself tells employers about who I am including my education, previous jobs, certifications and the skills that I have. This website is made up of 5 pages which are: the home page, about me page, the skills page, the links page, and the contact page. The home page contains a profile picture of me and an introduction to who I am, what my passions and hobies are. The about me page contains the information of my education, previous jobs, certifications and a link to my resume. The skills page is where i have displayed the various coding languages that i have learnt and some that i will learn soon if you click on the icons it will take you to my git hub repostories which show examples my work in with the language clicked on. The links page is where employers can find the links to my git hub and my linkedin, also linked here are my social media accounts. Finaly the contact page is where employers will find the various methods to contact me such as email, phone and social media.
 
