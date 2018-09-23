@@ -10,7 +10,7 @@ website starts on the home page it is expected that viewer just go through the l
  4. links
  5. contact
 
- <img src="doc/homesc.png" width=300px>
+ <img src="docs/homesc.png" width=300px>
 
 
 
