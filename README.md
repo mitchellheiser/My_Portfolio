@@ -11,6 +11,10 @@ website starts on the home page it is expected that viewer just go through the l
  5. contact
 
  <img src="docs/homesc.png" width=300px>
+ <img src="docs/aboutmesc.png" width=300px>
+ <img src="docs/skillssc.png" width=300px>
+ <img src="docs/linkssc.png" width=300px>
+ <img src="docs/contactsc.png" width=300px>
 
 
 
