@@ -34,8 +34,8 @@ trello
 <h3> Design Proccess</h3>
 
 <h4>Mood Boards</h4>
-<img src="docs/moodb1.jpeg" width=300px>
-<img src="docs/moodb2.jpeg" width=300px>
+<img src="docs/moodb1.png" width=300px>
+<img src="docs/moodb2.png" width=300px>
 
 <h3>Wireframes</h3>
 <img src="docs/home.png" width=300px>
