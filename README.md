@@ -22,25 +22,27 @@ website starts on the home page it is expected that viewer just go through the l
 
 <h1>Tech Stack</h1>
 The various software, coding laguages and hosting services that i used to build this site include:
-
-HTML5
-css3
-photoshop
-fontface
-googlefonts
-git hub
-trello
+<ol>
+ <li>HTML5</li>
+ <li>css3</li>
+ <li>photoshop</li>
+ <li>fontface</li>
+ <li>googlefonts</li>
+ <li>git hub</li>
+ <li>trello</li>
+ </ol>
 
 
 <h1>Design Documentation</h1>
 
 <h3> Design Proccess</h3>
-1. create logo
-2. create mood boards to decided on overall design of the website
-3. chose some fonts and icons
-4. create more mood boards mixing in new elements gathered to decide on a final design scheme
-5. make wireframes to decide on final layout
-
+<ol>
+  <li>create logo</li>
+  <li> create mood boards to decide on overall design of the website</li>
+  <li> chose some fonts and icons</li>
+  <li>create more mood boards mixing in new elements gathered to decide on a final design scheme</li>
+  <li>make wireframes to decide on final layout</li>
+</ol>
 <h4>Mood Boards</h4>
 <img src="docs/moodb1.png" width=300px>
 <img src="docs/moodb2.png" width=300px>
@@ -55,6 +57,12 @@ trello
 <img src="img/logo_basic.png" width=300px>
 
 <h3>Usabilty</h3>
+<ul>
+<li>Easy navigation</li>
+<li>Easy to read fonts</li>
+<li>Not too over done colour wise that it distracts from the content</li>
+<li>Provides all the necessary information for employers/clients without going to over the top<li>
+</ul>
 
 
 <h1>Details of Planning proccess</h1>
