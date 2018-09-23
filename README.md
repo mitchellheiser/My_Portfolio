@@ -32,15 +32,15 @@ trello
 <h1>Design Documentation</h1>
 
 <h3> Design Proccess</h3>
+
+<h3>Wireframes</h3>
 <img src="docs/home.png" width=300px>
 <img src="docs/aboutme.png" width=300px>
 <img src="docs/skills.png" width=300px>
 <img src="docs/links.png" width=300px>
-<img src="docs/contactpng" width=300px>
-<h3>Wireframes</h3>
-
+<img src="docs/contact.png" width=300px>
 <h3>personal logo</h3>
-<img src="img/log_basic.png" width=300px>
+<img src="img/logo_basic.png" width=300px>
 
 <h3>Usabilty</h3>
 
