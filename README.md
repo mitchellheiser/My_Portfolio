@@ -32,6 +32,11 @@ trello
 <h1>Design Documentation</h1>
 
 <h3> Design Proccess</h3>
+1. create logo
+2. create mood boards to decided on overall design of the website
+3. chose some fonts and icons
+4. create more mood boards mixing in new elements gathered to decide on a final design scheme
+5. make wireframes to decide on final layout
 
 <h4>Mood Boards</h4>
 <img src="docs/moodb1.png" width=300px>
