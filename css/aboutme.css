@@ -67,6 +67,10 @@ a:hover {
     flex-direction: column;
 }
 
+.reslink {
+    color: blue;
+}
+
 footer {
     height: 100px;
     background-color: whitesmoke;
