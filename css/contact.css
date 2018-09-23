@@ -81,6 +81,8 @@ footer {
     height: 100px;
     background-color: whitesmoke;
     margin-bottom: 0;
+    font-size: 1rem;
+    font-family: 'Permanent Marker', cursive;
 }
 
 /* Mobile styles */
