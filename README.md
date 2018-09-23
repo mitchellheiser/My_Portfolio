@@ -4,11 +4,13 @@ The purpose of this website is to show case my abilites to future employers. It 
 
 <h1>Site Map</h1>
 website starts on the home page it is expected that viewer just go through the links one buy but the order dosent matter to much. The general flow though is:
- 1. homepage
- 2. aboutme
- 3. skills
- 4. links
- 5. contact
+  <ol>
+  <li>homepage</li>
+  <li>aboutme</li>
+  <li>skills</li>
+  <li>links</li>
+  <li>contact</li>
+ </ol>
 
  <img src="docs/homesc.png" width=300px>
  <img src="docs/aboutmesc.png" width=300px>
@@ -20,6 +22,7 @@ website starts on the home page it is expected that viewer just go through the l
 
 <h1>Tech Stack</h1>
 The various software, coding laguages and hosting services that i used to build this site include:
+
 HTML5
 css3
 photoshop
