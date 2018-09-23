@@ -59,12 +59,22 @@ a:hover {
          color:black;
         text-decoration: none;}
 
+
 #email,
 #phone,
 #facebook {
     font-size: 1.5rem;
     display: flex;
     flex-direction: column;
+}
+
+#email-a,
+#phone-a,
+#facebook-a {
+    font-size: 6rem;
+}
+#facebook-a:hover{
+    font-size: 9rem;
 }
 
 footer {
