@@ -54,7 +54,7 @@ The various software, coding laguages and hosting services that i used to build 
 <img src="docs/links.png" width=300px>
 <img src="docs/contact.png" width=300px>
 <h3>personal logo</h3>
-<img src="img/logo_basic.png" width=300px>
+<img src="../img/logo_basic.png" width=300px>
 
 <h3>Usabilty</h3>
 <ul>
@@ -82,13 +82,16 @@ The various software, coding laguages and hosting services that i used to build 
 <h1>Describe key events in the development of the internet from the 1980s to today</h1>
 
 <p>Since the initial development of the ARPANET in 1961 the internet revolutionized the modern world. Despite that the internet was first created in 1961 it didn’t become available to the public until the late 1980s. Even after the internet first launched commercially it wasn’t really that popular with the general public however this all began to change in 1990 when a man known as Berners-Lee developed the first web browser which he named the WorldWideWeb. In 1991 the WorldWideWeb went live to the world, this is what shaped the internet into what it is today Berners-Lee’s creation changed the world.  The many years following the internet continued to undergo many changes companies such as google ushered in the new era as the lead web browser, from there came the many social media sites that made connecting with people all over the world simple and quick now days almost every household has an internet connection.</p>
+<p>References: https://www.tandfonline.com/doi/full/10.1080/23738871.2016.1157619</p>
 
 <h1>Define and describes the relationship between fundamental aspects of the internet such as: domains, web servers, DNS, and web browsers</h1>
 
  <p>Domains are names used to identify one or more IP address. However because the internet is based on IP’s, domain name systems or dns where created to identify the domains and there assigned IP addresses. Web servers are computers that store and deliver webpages, all webservers require a dns in order to identify the IP addresses of the websites they host so that users all over world can connect and view the content of the webpages. Finally web browsers are the software the users use to as the name suggest browse the web, they locate, retrieve and display the content of the internet this includes webpages, images and videos.</p>
+ <p>Reference: https://www.webopedia.com/TERM/D/domain_name.html</p>
 
 <h1>Reflect on one aspect of the development of internet technologies and how it has contributed to the world today</h1>
 
- <p>Wireless connectivity is something that I think is taken for granted all too often these days. If you think about it really wasn’t that long ago that if you wanted to connect to the internet you had to do it over a Lan cable, now days we have the ability to connect the internet whereever we want nearly every house has wireless router and now there is even public connections set up across cities so that the public can stay constantly conected to the internet.  Wireless connectivity has greatly influenced our lives so much so that we have become almost entirely dependent on it, we use it to entertain ourselves, connect with others, run businesses even a lot of the necessary functions that keep our cities habitable are dependent on the wireless network. Wireless connectivity has greatly shaped molded modern society into what it is today and without it I am sure the society we live in would be very different.</p>
+ <p>Wireless connectivity is something that I think is taken for granted all too often these days. If you think about it really wasn’t that long ago that if you wanted to connect to the internet you had to do it over a Lan cable, now days we have the ability to connect the internet wherever we want nearly every house has wireless router and now there is even public connections set up across cities so that the public can stay constantly conected to the internet.  Wireless connectivity has greatly influenced our lives so much so that we have become almost entirely dependent on it, we use it to entertain ourselves, connect with others, run businesses even a lot of the necessary functions that keep our cities habitable are dependent on the wireless network. Wireless connectivity has greatly shaped molded modern society into what it is today and without it I am sure the society we live in would be very different.</p>
+ <p> Reference: https://www.makeuseof.com/tag/technology-explained-how-does-a-router-work/</p>
 
 
