@@ -90,6 +90,7 @@ footer {
     .introduction {
         width: 300px;
         font-size: 1rem;
+        overflow: scroll;
     }
 }
 
