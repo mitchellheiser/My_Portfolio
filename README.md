@@ -57,7 +57,7 @@ The various software, coding laguages and hosting services that i used to build 
 <img src="docs/links.png" width=300px>
 <img src="docs/contact.png" width=300px>
 <h3>personal logo</h3>
-<img src="../img/logo_basic.png" width=300px>
+<img src="img/logo_basic.png" width=300px>
 
 <h3>Usabilty</h3>
 <ul>
